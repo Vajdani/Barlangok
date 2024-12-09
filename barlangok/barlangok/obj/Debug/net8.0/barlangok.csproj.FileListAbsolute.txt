@@ -1,0 +1,14 @@
+C:\Users\vajda.daniel\Desktop\barlangok\barlangok\bin\Debug\net8.0\barlangok.exe
+C:\Users\vajda.daniel\Desktop\barlangok\barlangok\bin\Debug\net8.0\barlangok.deps.json
+C:\Users\vajda.daniel\Desktop\barlangok\barlangok\bin\Debug\net8.0\barlangok.runtimeconfig.json
+C:\Users\vajda.daniel\Desktop\barlangok\barlangok\bin\Debug\net8.0\barlangok.dll
+C:\Users\vajda.daniel\Desktop\barlangok\barlangok\bin\Debug\net8.0\barlangok.pdb
+C:\Users\vajda.daniel\Desktop\barlangok\barlangok\obj\Debug\net8.0\barlangok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vajda.daniel\Desktop\barlangok\barlangok\obj\Debug\net8.0\barlangok.AssemblyInfoInputs.cache
+C:\Users\vajda.daniel\Desktop\barlangok\barlangok\obj\Debug\net8.0\barlangok.AssemblyInfo.cs
+C:\Users\vajda.daniel\Desktop\barlangok\barlangok\obj\Debug\net8.0\barlangok.csproj.CoreCompileInputs.cache
+C:\Users\vajda.daniel\Desktop\barlangok\barlangok\obj\Debug\net8.0\barlangok.dll
+C:\Users\vajda.daniel\Desktop\barlangok\barlangok\obj\Debug\net8.0\refint\barlangok.dll
+C:\Users\vajda.daniel\Desktop\barlangok\barlangok\obj\Debug\net8.0\barlangok.pdb
+C:\Users\vajda.daniel\Desktop\barlangok\barlangok\obj\Debug\net8.0\barlangok.genruntimeconfig.cache
+C:\Users\vajda.daniel\Desktop\barlangok\barlangok\obj\Debug\net8.0\ref\barlangok.dll
